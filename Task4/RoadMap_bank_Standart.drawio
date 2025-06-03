@@ -47,7 +47,7 @@
           <mxGeometry x="-2008" y="-900" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D2rkTNStKTS8AspWZ8WF-14" value="T6 - Доработки веб-приложения: заявки, получение и отображение ставок" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="-2008" y="-791" width="350" height="80" as="geometry" />
+          <mxGeometry x="-2008" y="-791" width="438" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D2rkTNStKTS8AspWZ8WF-15" value="T8 - Интеграция с АБС для запроса перс. ставок" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
           <mxGeometry x="-1500" y="-900" width="250" height="60" as="geometry" />
